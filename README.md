@@ -1,4 +1,4 @@
-# sart_up_project
+# my_weather_project
 
 A new Flutter project.
 
